@@ -22,4 +22,4 @@ We can Initiate Sentiment Analysis using NLTK Library and Figure the Sentiments 
 there by Visualizing the Tweets Sentiment For Each Product in SAP Lumira For Further Insights.
 
 
-## Please Check [Twitter Sentiment analysis PDF]("https://github.com/ravidawar/Microsoft-v.s.-Apple-A-Twitter-Sentiment-Showdown/blob/master/Twitter%20Sentiment%20analysis.pdf") for step by step approach
+Please Check Twitter Sentiment analysis[PDF]("https://github.com/ravidawar/Microsoft-v.s.-Apple-A-Twitter-Sentiment-Showdown/blob/master/Twitter%20Sentiment%20analysis.pdf") for step by step approach
