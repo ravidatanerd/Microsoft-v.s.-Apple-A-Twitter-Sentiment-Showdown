@@ -1,4 +1,6 @@
-# SAP_HANA_REAL_TIME_Twitter_Sentiment_Analysis
+# Microsoft v.s. Apple: A Twitter Sentiment Showdown
+
+
 Twitter API and data load processes in SAP HANA and Analyzing sentiments based on Tweets Fetched
 
 Objective
